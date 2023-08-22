@@ -23,7 +23,7 @@ body{
     animation: rev 3.3s 1.1s steps(21) forwards;
   }
   .cover b{
-    color: #808080;
+    color: #4b4949;
     animation: blink 11s forwards;
     user-select: none;
   }
